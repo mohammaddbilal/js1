@@ -1,2 +1,1 @@
-# js1
-js1
+https://mohammaddbilal.github.io/js1/.
